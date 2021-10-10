@@ -1,5 +1,11 @@
 name: "CodeQL Config"
 
+disable-default-queries: true
+
+queries:
+  - name: Security and quality analysis
+    uses: security-and-quality
+    
 paths:
   - js
 paths-ignore:
