@@ -120,3 +120,15 @@ body {
 #not-supported-area > * {
   color: inherit;
 }
+.success{
+  font-size: 2rem;
+  color:#7cecae;
+  
+
+}
+.message{
+
+}
+.error{
+  font-size: 2rem;color: #fc4e22;
+}
